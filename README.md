@@ -6,12 +6,12 @@ Fully configured Linux server on Amazon Web Services running the Cat-alog web ap
 
 IP
 ```
-18.216.2.192
+SERVER NO LONGER ACCESSIBLE
 ```
 
 URL
 ```
-http://18.216.2.192.xip.io
+SERVER NO LONGER ACCESSIBLE
 ```
 
 ### Installed Software
